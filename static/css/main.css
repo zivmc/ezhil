@@ -249,6 +249,7 @@ pre code {
 .header .site-description {
     display: flex;
     justify-content: space-between;
+    margin-top: 10px;
 }
 
 .header .site-description nav {
